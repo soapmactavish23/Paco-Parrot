@@ -46,9 +46,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\Game.cs" />
+     <Compile Include="Assets\Script\Inimigo.cs" />
      <Compile Include="Assets\Script\bg.cs" />
+     <Compile Include="Assets\Script\destroyObj.cs" />
      <Compile Include="Assets\Script\player.cs" />
-     <Compile Include="Assets\destroyObj.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
